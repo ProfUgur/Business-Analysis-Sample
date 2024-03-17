@@ -1,1 +1,1 @@
-# Business-Analyst-Sample-Essay
+# Business-Analyst-Sample
