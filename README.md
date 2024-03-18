@@ -1,1 +1,1 @@
-# Business-Analyst-Sample
+# Business-Analysis-Sample
