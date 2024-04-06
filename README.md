@@ -1,1 +1,2 @@
 # Business-Analysis-Sample
+This is requirements of an educational web site and me and my teammates business analysis training graduation project. It contains requirements, images, use-case scenarios, and uml diagrams to present to web developers and testers. The planning stages of the web site were carried out using the Agile - Scrum methodology. JIRA was used to write and plan requirements, Figma used to make the mockup of the site and draw.io platform was used to create UML diagrams. 
