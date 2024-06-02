@@ -27,7 +27,7 @@ Here is a representative image of the phone number field completely and correctl
 Here is the use case diagram of the "Profile Information" page. It is shown here that in order to save personal information, the user must first open the home page. In addition, subpages are shown as extensions of the upper page.
 
 ![image](https://github.com/ProfUgur/Business-Analysis-Sample/assets/148859613/712aba3b-0506-4fe0-96b6-39a111b4000e)
-Shown here is the “My Personal Information” subpage activity diagram. It can be seen that the elements in the system are generally independent of each other. Additionally, it is understood that no order is observed when entering personal information. This ensures that each element does not affect the other in terms of errors, reduces the complexity in the system, and facilitates coding and testing. Therefore, time, labor and costs are saved.
+Shown here is the “My Personal Information” subpage activity diagram. It can be seen that the elements in the system are generally independent of each other. Additionally, it is understood that no order is observed when entering personal information. This ensures that each element does not affect the other in terms of errors, reduces the complexity in the system, and facilitates coding and testing. As a result, time, labor and costs are saved.
 
 That's all I want to say. If you want to get more information about all the contents, you can download and review the file.
 Thanks.
