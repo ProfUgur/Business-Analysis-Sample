@@ -28,6 +28,7 @@ The warning text changes depending on the selected area code. Notice that there 
 The presence of an asterisk seems to make it much easier to notice that the phone number is missing. Also the frame is still red.
 
 ![image](https://github.com/ProfUgur/Business-Analysis-Sample/assets/148859613/7ad0d960-c928-49e9-b885-166a00d0b101)
+
 Here is a representative image of the phone number field completely and correctly filled out.
 
 ![image](https://github.com/ProfUgur/Business-Analysis-Sample/assets/148859613/bba3faa7-c16e-4ab6-ba0c-38b0c489ab43)
